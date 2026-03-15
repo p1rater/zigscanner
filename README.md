@@ -146,7 +146,7 @@ You need Zig 0.13 or newer. Get it from [ziglang.org/download](https://ziglang.o
 
 ```bash
 # Clone the repository
-git clone https://github.com/you/zigscanner
+git clone https://github.com/p1rater/zigscanner
 cd zigscanner
 
 # Debug build (slower, better error messages, leak detection)
